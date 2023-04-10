@@ -1,0 +1,3 @@
+Algoritmo Vocal_Secreta_Bucle_Mientras
+	
+FinAlgoritmo
